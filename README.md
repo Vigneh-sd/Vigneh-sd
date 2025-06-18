@@ -26,8 +26,7 @@ I have a strong foundation in **Data Structures and Algorithms** with consistent
 
 * 📘 [DSA Repository (Java, Topic-Wise)](https://github.com/Vigneh-sd/DATA-STRUCTURES)
 * 🧠 [LeetCode Profile](https://leetcode.com/Vignesh_0703/)
-* 🏅 Problem Solving Intermediate Certificate – HackerRank
-  ![Problem Solving Certificate](https://github.com/Vigneh-sd/Certifications/blob/master/Problem_Solving_\(Intermediate\).png)
+* 🏅 [Problem Solving Intermediate Certificate – HackerRank](https://github.com/Vigneh-sd/Certifications/blob/master/Problem_Solving_%28Intermediate%29.png)
 
 ---
 
@@ -40,10 +39,8 @@ I have solid hands-on experience building secure, scalable REST APIs using:
 
 🧾 Certifications:
 
-* Spring Boot – Udemy
-  📄 [https://github.com/Vigneh-sd/Certifications/blob/master/Spring%20boot%20certificate.pdf](https://github.com/Vigneh-sd/Certifications/blob/master/Spring%20boot%20certificate.pdf)
-* Java – Udemy
-  📄 [https://github.com/Vigneh-sd/Certifications/blob/master/java%20certificate.pdf](https://github.com/Vigneh-sd/Certifications/blob/master/java%20certificate.pdf)
+* [Spring Boot – Udemy](https://github.com/Vigneh-sd/Certifications/blob/master/Spring%20boot%20certificate.pdf)
+* [Java – Udemy](https://github.com/Vigneh-sd/Certifications/blob/master/java%20certificate.pdf)
 
 ---
 
@@ -83,8 +80,7 @@ KiwiCare is a **full-stack role-based web application** where users can request 
 
 #### 🧾 Certification
 
-* Software Engineer Internship – HackerRank
-  📄 [https://github.com/Vigneh-sd/Certifications/blob/master/Software\_Engineer\_Intern.png](https://github.com/Vigneh-sd/Certifications/blob/master/Software_Engineer_Intern.png)
+* [Software Engineer Internship – HackerRank](https://github.com/Vigneh-sd/Certifications/blob/master/Software_Engineer_Intern.png)
 
 ---
 
