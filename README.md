@@ -37,10 +37,11 @@ I have solid hands-on experience building secure, scalable REST APIs using:
 * **Java 8+**, **Spring Boot**, **Spring Security**, **JWT**, **JPA**, **MySQL**
 * End-to-end role-based authentication, secure business logic, and efficient database design
 
-🧾 Certificates:
+🧾 Certifications:
 
-* [Spring Boot – Udemy](https://github.com/Vigneh-sd/Certifications/blob/master/Spring%20boot%20certificate.pdf)
-* [Java – Udemy](https://github.com/Vigneh-sd/Certifications/blob/master/java%20certificate.pdf)
+Spring Boot – Udemy📄 View Certificate (PDF)
+
+Java – Udemy📄 View Certificate (PDF)
 
 ---
 
@@ -80,7 +81,7 @@ KiwiCare is a **full-stack role-based web application** where users can request 
 
 #### 🧾 Certification
 
-* [Software Engineer Internship – HackerRank](https://github.com/Vigneh-sd/Certifications/blob/master/Software_Engineer_Intern.png)
+[* [Software Engineer Internship – HackerRank](https://github.com/Vigneh-sd/Certifications/blob/master/Software_Engineer_Intern.png)](https://github.com/Vigneh-sd/Certifications/blob/master/Software_Engineer_Intern.png)
 
 ---
 
