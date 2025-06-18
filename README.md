@@ -39,7 +39,7 @@ I have solid hands-on experience building secure, scalable REST APIs using:
 
 🧾 Certifications:
 
-* [Spring Boot – Udemy](https://github.com/Vigneh-sd/Certifications/blob/master/Spring%20boot%20certificate.pdf)
+* Spring Boot – https://github.com/Vigneh-sd/Certifications/blob/master/Spring_Boot_Certificate.pdf
 * [Java – Udemy](https://github.com/Vigneh-sd/Certifications/blob/master/java%20certificate.pdf)
 
 ---
