@@ -39,10 +39,11 @@ I have solid hands-on experience building secure, scalable REST APIs using:
 
 🧾 Certifications:
 
-Spring Boot – Udemy📄 View Certificate (PDF)
+🧾 Spring Boot Certificate (Udemy)
+📄 View Certificate (PDF)
 
-Java – Udemy📄 View Certificate (PDF)
-
+☕ Java Certificate (Udemy)
+📄 View Certificate (PDF)
 ---
 
 ## 🌐 Full Stack Projects
@@ -81,7 +82,7 @@ KiwiCare is a **full-stack role-based web application** where users can request 
 
 #### 🧾 Certification
 
-[* [Software Engineer Internship – HackerRank](https://github.com/Vigneh-sd/Certifications/blob/master/Software_Engineer_Intern.png)](https://github.com/Vigneh-sd/Certifications/blob/master/Software_Engineer_Intern.png)
+[* [Software Engineer Internship – HackerRank]
 
 ---
 
