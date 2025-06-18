@@ -2,6 +2,13 @@
 
 I'm a **Software Engineer / Full Stack Developer** passionate about building complete web solutions using **Java, Spring Boot, React.js**, and **MySQL**. I specialize in backend systems and thrive on solving complex problems through clean and scalable code.
 
+> 📁 Check out my repositories:
+
+* [DATA-STRUCTURES](https://github.com/Vigneh-sd/DATA-STRUCTURES)
+* [Certifications](https://github.com/Vigneh-sd/Certifications)
+* [Backend\_Kiwicare](https://github.com/Vigneh-sd/Backend_Kiwicare)
+* [Kiwicare\_frontend](https://github.com/Vigneh-sd/Kiwicare_frontend)
+
 ---
 
 ## 💼 Work Experience
@@ -19,7 +26,7 @@ I have a strong foundation in **Data Structures and Algorithms** with consistent
 
 * 📘 [DSA Repository (Java, Topic-Wise)](https://github.com/Vigneh-sd/DATA-STRUCTURES)
 * 🧠 [LeetCode Profile](https://leetcode.com/Vignesh_0703/)
-* 🏅 [Problem Solving Intermediate Certificate – HackerRank](https://github.com/Vigneh-sd/Certifications/blob/main/Problem_Solving_%28Intermediate%29.png)
+* 🏅 [Problem Solving Intermediate Certificate – HackerRank](./Problem_Solving_%28Intermediate%29.png)
 
 ---
 
@@ -32,8 +39,8 @@ I have solid hands-on experience building secure, scalable REST APIs using:
 
 🧾 Certificates:
 
-* [Spring Boot – Udemy](https://github.com/Vigneh-sd/Certifications/blob/main/Spring%20boot%20certificate.pdf)
-* [Java – Udemy](https://github.com/Vigneh-sd/Certifications/blob/main/java%20certificate.pdf)
+* [Spring Boot – Udemy](./Spring%20boot%20certificate.pdf)
+* [Java – Udemy](./java%20certificate.pdf)
 
 ---
 
@@ -73,13 +80,12 @@ KiwiCare is a **full-stack role-based web application** where users can request 
 
 #### 🧾 Certification
 
-* [Software Engineer Internship – HackerRank](https://github.com/Vigneh-sd/Certifications/blob/main/Software_Engineer_Intern.png)
+* [Software Engineer Internship – HackerRank](./Software_Engineer_Intern.png)
 
 ---
 
 ## 📫 Contact Me
 
-* [LinkedIn](https://www.linkedin.com/in/vignesh-subramaniam/)
-* 📧 Email: [vignesh.dev@gmail.com](mailto:vignesh.dev@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/vigneshsubramaniam07/)
 
 > "Build clean. Build smart. Keep coding."
